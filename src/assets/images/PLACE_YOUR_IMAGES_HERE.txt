@@ -1,0 +1,18 @@
+Place your 10 image files in this folder with these exact filenames:
+
+  hero.jpg                  ← Full-width hero background
+  yacht-bahari-pearl.jpg    ← Luxury Flybridge yacht
+  yacht-pwani-star.jpg      ← Sport Cruiser
+  yacht-kilindini-queen.jpg ← Motor Catamaran
+  yacht-dhahabu.jpg         ← Classic Dhow
+  yacht-simba-deep.jpg      ← Fishing Sportfisher
+  yacht-bahari-nights.jpg   ← Overnight Cruiser
+  ws-kayak.jpg              ← Leg Pedal Kayak
+  ws-rhib.jpg               ← RHIB Adventure Boat
+  ws-jetboard.jpg           ← Electric Jetboard
+
+Recommended sizes:
+  hero.jpg        → 1920×1080px, max 500KB
+  All others      → 800×600px,   max 200KB
+
+Free compression tool: https://squoosh.app
